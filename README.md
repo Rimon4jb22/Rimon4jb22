@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 Currently learning -- Python, Laravel,<br>👀 Ask me about Any general IT issues.<br>📩 Reach me -- rimon4jb.22@gmail.com</p>
+<p align="left">📚 Currently learning -- JavaScript, Laravel,<br>👀 Ask me about Any general IT issues.<br>📩 Reach me -- rimon4jb.22@gmail.com</p>
 
 ###
 
