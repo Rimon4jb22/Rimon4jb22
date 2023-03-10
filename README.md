@@ -20,11 +20,11 @@
 
 ###
 
-<p align="left">Developed / Coded : <br><br>Conceptual-Website-in-html5__[ https://github.com/Rimon4jb22/Conceptual-Website-in-html5__MulTecPrjct__HBUT ]<br>Library management system__[ https://github.com/Rimon4jb22/Design-and-implementation-of-library-management-system__SoEngPrjt__HBUT ]<br>Online-Shop-Prototype-adobeXD__[ https://github.com/Rimon4jb22/Online-Shop-Prototype-adobeXD-__HCIprjt__HBUT ]<br>Offline-Inventory-System__[ https://github.com/Rimon4jb22/Offline-Inventory-System__grd-prjt_HBUT ]<br>Embedded Projects__[ https://github.com/Rimon4jb22/Embedded-Projects__HBUT ]<br><br>         ☝️ Versity /\ :: <br><br>Cotant / Social Midea : <br><br>Sourcing and Dristribution Solution : JOKIS [ https://www.facebook.com/jokis.co.pvt ]<br>  Retail and Whole sell Solution: godhaun.ghor [ https://www.facebook.com/godhaun.ghor ]<br>  Cotant Management: EYE TV [ https://www.facebook.com/eyetv.fans<br>  https://www.youtube.com/eyetv2u ]</p>
+<p align="left">Developed / Coded : <br><br>Conceptual-Website-in-html5__[ https://github.com/Rimon4jb22/Conceptual-Website-in-html5__MulTecPrjct__HBUT ]<br>Library management system__[ https://github.com/Rimon4jb22/Design-and-implementation-of-library-management-system__SoEngPrjt__HBUT ]<br>Online-Shop-Prototype-adobeXD__[ https://github.com/Rimon4jb22/Online-Shop-Prototype-adobeXD-__HCIprjt__HBUT ]<br>Offline-Inventory-System__[ https://github.com/Rimon4jb22/Offline-Inventory-System__grd-prjt_HBUT ]<br>Embedded Projects__[ https://github.com/Rimon4jb22/Embedded-Projects__HBUT ]<br><br>         ☝️ Versity /\ :: <br><br>Cotant / Social Midea : <br><br>Sourcing and Dristribution Solution : JOKIS [ https://www.facebook.com/jokis.co.pvt ]<br>  Retail and Whole sell Solution: godhaun.ghor [ https://www.facebook.com/godhaun.ghor ]<br>  Cotant Management: EYE TV [ https://www.facebook.com/eyetv.fans<br>                                                    https://www.youtube.com/eyetv2u ]</p>
 
 ###
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools:</h2>
 
 ###
 
@@ -44,8 +44,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Rimon4jb22" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Rimon4jb22" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&username=Rimon4jb22" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&username=Rimon4jb22" height="150" alt="languages graph"  />
 </div>
 
 ###
