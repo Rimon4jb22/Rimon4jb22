@@ -16,11 +16,39 @@
 
 ###
 
-<h4 align="center">Projects:</h4>
+<h3 align="center">Projects:</h3>
 
 ###
 
-<p align="left">Developed / Coded : <br><br>Conceptual-Website-in-html5__[ https://github.com/Rimon4jb22/Conceptual-Website-in-html5__MulTecPrjct__HBUT ]<br>Library management system__[ https://github.com/Rimon4jb22/Design-and-implementation-of-library-management-system__SoEngPrjt__HBUT ]<br>Online-Shop-Prototype-adobeXD__[ https://github.com/Rimon4jb22/Online-Shop-Prototype-adobeXD-__HCIprjt__HBUT ]<br>Offline-Inventory-System__[ https://github.com/Rimon4jb22/Offline-Inventory-System__grd-prjt_HBUT ]<br>Embedded Projects__[ https://github.com/Rimon4jb22/Embedded-Projects__HBUT ]<br><br>         ☝️ Versity /\ :: <br><br>Cotant / Social Midea : <br><br>Sourcing and Dristribution Solution : JOKIS [ https://www.facebook.com/jokis.co.pvt ]<br>  Retail and Whole sell Solution: godhaun.ghor [ https://www.facebook.com/godhaun.ghor ]<br>  Cotant Management: EYE TV [ https://www.facebook.com/eyetv.fans<br>                                                    https://www.youtube.com/eyetv2u ]</p>
+<p align="left">
+<h4>Developed / Coded :</h4>
+
+<h5 style="margin-left: 70px;">👇 In Job :\/:</h5>
+Summing Multiple Column Values at once__[ https://github.com/Rimon4jb22/Large-CSV-Processing_bAut/blob/main/auto_sum.py ]<br>
+Month Wise Summarizing in Large CSV__[ https://github.com/Rimon4jb22/Large-CSV-Processing_bAut/blob/main/auto_summarizing.py ]<br>
+Find and Remove Target Columns From Large CSV__[ https://github.com/Rimon4jb22/Large-CSV-Processing_bAut/blob/main/Find_%26_Remove_columns.py ]<br>
+Find the Density of Listed Keywords From a Large CSV__[ https://github.com/Rimon4jb22/Large-CSV-Processing_bAut/blob/main/keyword_count.py ]<br>
+Merge 2 or More Large CSV Files Into One CSV__[ https://github.com/Rimon4jb22/Large-CSV-Processing_bAut/blob/main/marging.py ]<br>
+Find Missing Dates From a Large CSV and Log Them Into a New CSV__[ https://github.com/Rimon4jb22/Large-CSV-Processing_bAut/blob/main/missing_date%20finding.py ]<br>
+Find Certain Sections of Some PDF and Log Those Sections in a Txt File__[ https://github.com/Rimon4jb22/Large-CSV-Processing_bAut/blob/main/pdf_parse.py ]<br>
+
+
+<h5 style="margin-left: 70px;">👇 In Varsity :\/:</h5>
+
+Conceptual-Website-in-html5__[ https://github.com/Rimon4jb22/Conceptual-Website-in-html5__MulTecPrjct__HBUT ]
+<br>Library management system__[ https://github.com/Rimon4jb22/Design-and-implementation-of-library-management-system__SoEngPrjt__HBUT ]
+<br>Online-Shop-Prototype-adobeXD__[ https://github.com/Rimon4jb22/Online-Shop-Prototype-adobeXD-__HCIprjt__HBUT ]
+<br>Offline-Inventory-System__[ https://github.com/Rimon4jb22/Offline-Inventory-System__grd-prjt_HBUT ]
+<br>Embedded Projects__[ https://github.com/Rimon4jb22/Embedded-Projects__HBUT ]<br>
+
+ <br>
+<h4>Cotant / Social Midea :</h4>
+Sourcing and Dristribution Solution : JOKIS [ https://www.facebook.com/jokis.co.pvt ]
+<br>  Retail and Whole sell Solution: godhaun.ghor [ https://www.facebook.com/godhaun.ghor ]
+<br>  Cotant Management: EYE TV [ https://www.facebook.com/eyetv.fans
+<br>    <a style="margin-left: 270px;"> https://www.youtube.com/eyetv2u ]</a>    
+
+</p>
 
 ###
 
