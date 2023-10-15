@@ -37,7 +37,7 @@ Find Certain Sections of Some PDF and Log Those Sections in a Txt File__[ https:
 
 Conceptual-Website-in-html5__[ https://github.com/Rimon4jb22/Conceptual-Website-in-html5__MulTecPrjct__HBUT ]
 <br>Library management system__[ https://github.com/Rimon4jb22/Design-and-implementation-of-library-management-system__SoEngPrjt__HBUT ]
-<br>Online-Shop-Prototype-adobeXD__[ https://github.com/Rimon4jb22/Online-Shop-Prototype-adobeXD-_HCIprjt__HBUT ]
+<br>Online-Shop-Prototype-adobeXD__[ https://github.com/Rimon4jb22/Online-Shop-Prototype-adobeXD__HCIprjt__HBUT ]
 <br>Offline-Inventory-System__[ https://github.com/Rimon4jb22/Offline-Inventory-System__grd-prjt_HBUT ]
 <br>Embedded Projects__[ https://github.com/Rimon4jb22/Embedded-Projects__HBUT ]<br>
 
