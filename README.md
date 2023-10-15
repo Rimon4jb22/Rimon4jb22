@@ -46,7 +46,7 @@ Conceptual-Website-in-html5__[ https://github.com/Rimon4jb22/Conceptual-Website-
 Sourcing and Distribution Solution: JOKIS [ https://www.facebook.com/jokis.co.pvt ]
 <br>  Retail and Whole sell Solution: godhaun.ghor [ https://www.facebook.com/godhaun.ghor ]
 <br>  Cotant Management: EYE TV [ https://www.facebook.com/eyetv.fans
-<br>    <a style="margin-left: 270px;"> https://www.youtube.com/eyetv2u ]</a>    
+<br>                              https://www.youtube.com/eyetv2u ]    
 
 </p>
 
